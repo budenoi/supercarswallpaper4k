@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Wellcome To Tricaal Studio",
   
-"mode_no_ads" : false,
+"mode_no_ads" : true,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 // Mode Iklan
@@ -30,7 +30,7 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "205549377",
 
 "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
 "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "banner",
-"unity_inters_id" : "interstitial",
-"unity_id" : 4045251,
+"unity_banner_id" : "Banner_Android",
+"unity_inters_id" : "Interstitial_Android",
+"unity_id" :4805783,
 "unity_test" : true,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
