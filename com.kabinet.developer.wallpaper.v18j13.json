@@ -1,7 +1,7 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "Server Ready - v18j13",
+"json_popup_wait" : "Wellcome To Tricaal Studio",
   
 "mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
@@ -23,7 +23,7 @@
 "inter_count" : 2,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : true,
 
