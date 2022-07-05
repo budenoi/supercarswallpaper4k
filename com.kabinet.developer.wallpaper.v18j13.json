@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 2,
+"inter_count" : 4,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
@@ -52,7 +52,7 @@
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
 "unity_id" :4805783,
-"unity_test" : true,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
